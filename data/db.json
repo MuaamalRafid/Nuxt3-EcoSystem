@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Lexma G88",
+      "price": "22.69",
+      "description": "This is product 1 description",
+      "image": "/assets/image/image 1.png"
+    },
+    {
+      "id": "2",
+      "name": "Lexma G88",
+      "price": "20.88",
+      "description": "This is product 2 description",
+      "image": "/assets/image/image 2.png"
+    },
+    {
+      "id": "3",
+      "name": "Lexma G88",
+      "price": "50.99",
+      "description": "This is product 3 description",
+      "image": "/assets/image/image 3.png"
+    },
+    {
+      "id": "4",
+      "name": "Lexma G88",
+      "price": "22.69",
+      "description": "This is product 4 description",
+      "image": "assets/image/image 4.png"
+    },
+    {
+      "id": "5",
+      "name": "Lexma G88",
+      "price": "20.88",
+      "description": "This is product 5 description",
+      "image": "/assets/image/image 5.png"
+    },
+    {
+      "id": "6",
+      "name": "Lexma G88",
+      "price": "50.99",
+      "description": "This is product 6 description",
+      "image": "/assets/image/image 6.png"
+    },
+    {
+      "id": "7",
+      "name": "Lexma G88",
+      "price": "22.69",
+      "description": "This is product 7 description",
+      "image": "/assets/image/image 7.png"
+    },
+    {
+      "id": "8",
+      "name": "Lexma G88",
+      "price": "20.88",
+      "description": "This is product 8 description",
+      "image": "/assets/image/image 8.png"
+    }
+  ]
+}
